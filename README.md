@@ -42,15 +42,12 @@ This study addresses two key questions:
 
 ## Objectives
 
--  Quantify uncertainty and statistical confidence of ML-based pCO₂ reconstructions
-
--  Investigate the impact of **different sampling strategies**:
+- Quantify uncertainty and statistical confidence of ML-based pCO₂ reconstructions
+- Investigate the impact of **different sampling strategies**:
   - Adding more data at existing locations
   - Adding new observations in previously unsampled areas
-
--  Identify regions where new data would improve model skill the most
- 
--  Evaluate model performance via metrics and spatial/temporal diagnostics
+- Identify regions where new data would improve model skill the most
+- Evaluate model performance via metrics and spatial/temporal diagnostics
 
 ---
 
